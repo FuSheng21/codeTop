@@ -1,0 +1,19 @@
+{
+  "name": "codetop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "supervisor ./server/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.3",
+    "mysql": "^2.18.1"
+  }
+}

@@ -1,0 +1,18 @@
+.active{color:#f00;}
+
+.login-form{
+    position: fixed;left:50%;top:50%;transform: translate(-50%,-50%);
+    width:500px;
+    height:300px;
+    padding:1em;
+    border:2px solid #ddd;
+    border-radius: 5px;
+}
+.login-form h1{text-align: center;}
+
+.text-right{
+    text-align: right;
+}
+.text-center{
+    text-align: center;
+}
